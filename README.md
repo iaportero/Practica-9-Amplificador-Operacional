@@ -190,7 +190,7 @@ http://blogmultisim.blogspot.com/2012/11/como-instalar-multisim-12-en-espanol.ht
 
 6. Descripcion de prerrequsitos y configuracion
 
-aso 1. Instala Multisim.
+Paso 1 : Instalar Multisim
 
 Primero que nada es necesario contar con una instalación previa de Multisim, si no cuentas con una licencia puedes descargar una evaluación por 30 dias
 
