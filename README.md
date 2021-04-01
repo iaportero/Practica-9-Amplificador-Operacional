@@ -32,3 +32,12 @@ Un amplificador operacional (también conocido como OPAMP) es un circuito integr
 
 
 ![](https://github.com/iaportero/Practica-9-Amplificador-Operacional/blob/main/Imagenes/ima%203.png)
+
+4. Explicacion
+
+
+
+
+
+
+
